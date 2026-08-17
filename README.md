@@ -294,11 +294,9 @@ I believe the fastest way to become a better developer is to build real projects
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/sahuabhishek2953-rgb/sahuabhishek2953-rgb/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake Animation"
+    alt="GitHub Contribution Snake"
   />
 </p>
-
-> **Note:** The snake animation requires a GitHub Actions workflow in this profile repository.
 
 ---
 
